@@ -83,4 +83,5 @@ public class NewSpreadSheetControllerTest {
       assertEquals(i + 1.0, spreadSheet.get(0, i), 0.001);
     }
   }
+
 }
